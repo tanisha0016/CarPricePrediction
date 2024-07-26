@@ -79,4 +79,3 @@ This project is licensed under the MIT License.
 
 ---
 
-Feel free to adjust any part of the README.md file to better fit your project's details and requirements.
